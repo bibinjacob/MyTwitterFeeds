@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyTwitte</string>
+    <string name="no_internet">You are not connected to the internet.</string>
+    <string name="unknown_error">An unexpected error occurred. Please try again later.</string>
+    <string name="error_invalid_parameters">Invalid parameters</string>
+    <string name="error_internal_error_occurred">An Internal error occurred</string>
+</resources>
